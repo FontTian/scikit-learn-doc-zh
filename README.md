@@ -15,6 +15,8 @@ scikit-learn 是基于 Python 语言的机器学习工具。
 github: <https://github.com/apachecn/scikit-learn-doc-zh/>  
 [ApacheCN](http://www.apachecn.org): <http://sklearn.apachecn.org/>
 
+[EPUB 格式](https://github.com/apachecn/scikit-learn-doc-zh/raw/dl/scikit-learn%200.19%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
+
 ## 正在翻译
 
 [scikit-learn(sklearn) 0.19](http://scikit-learn.org/stable/documentation.html)
